@@ -12544,11 +12544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebMVC\\WebMVC\\WebMVC.csproj",
+      "projectUniqueName": "C:\\Users\\thiago.pereira\\Projetos\\workshop-asp-core-mvc\\WebMVC\\WebMVC.csproj",
       "projectName": "WebMVC",
-      "projectPath": "D:\\WebMVC\\WebMVC\\WebMVC.csproj",
+      "projectPath": "C:\\Users\\thiago.pereira\\Projetos\\workshop-asp-core-mvc\\WebMVC\\WebMVC.csproj",
       "packagesPath": "C:\\Users\\thiago.pereira\\.nuget\\packages\\",
-      "outputPath": "D:\\WebMVC\\WebMVC\\obj\\",
+      "outputPath": "C:\\Users\\thiago.pereira\\Projetos\\workshop-asp-core-mvc\\WebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

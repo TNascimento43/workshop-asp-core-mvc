@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebMVC",
+    "\\WebMVC\\Controllers",
+    "\\WebMVC\\Models",
+    "\\WebMVC\\Models\\ViewModels",
+    "\\WebMVC\\Views",
+    "\\WebMVC\\Views\\Departaments"
+  ],
+  "SelectedNode": "\\WebMVC\\Views\\Departaments\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
